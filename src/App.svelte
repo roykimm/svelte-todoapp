@@ -1,5 +1,5 @@
 <script>
-	export let name;
+	//export let name;
 
 	// router
 	import { Router, Link, Route } from "svelte-routing";
