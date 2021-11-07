@@ -16,7 +16,7 @@
                         <ul role="list" class="mt-4 space-y-4">
                             <li>
                                 <a
-                                    href="#"
+                                    href={"#"}
                                     class="text-base text-gray-300 hover:text-white"
                                 >
                                     마케팅
@@ -25,7 +25,7 @@
 
                             <li>
                                 <a
-                                    href="#"
+                                    href={"#"}
                                     class="text-base text-gray-300 hover:text-white"
                                 >
                                     분석
@@ -34,7 +34,7 @@
 
                             <li>
                                 <a
-                                    href="#"
+                                    href={"#"}
                                     class="text-base text-gray-300 hover:text-white"
                                 >
                                     커머스
@@ -43,7 +43,7 @@
 
                             <li>
                                 <a
-                                    href="#"
+                                    href={"#"}
                                     class="text-base text-gray-300 hover:text-white"
                                 >
                                     인사이트
@@ -60,7 +60,7 @@
                         <ul role="list" class="mt-4 space-y-4">
                             <li>
                                 <a
-                                    href="#"
+                                    href={"#"}
                                     class="text-base text-gray-300 hover:text-white"
                                 >
                                     가격
@@ -69,7 +69,7 @@
 
                             <li>
                                 <a
-                                    href="#"
+                                    href={"#"}
                                     class="text-base text-gray-300 hover:text-white"
                                 >
                                     문서
@@ -78,7 +78,7 @@
 
                             <li>
                                 <a
-                                    href="#"
+                                    href={"#"}
                                     class="text-base text-gray-300 hover:text-white"
                                 >
                                     가이드
@@ -87,7 +87,7 @@
 
                             <li>
                                 <a
-                                    href="#"
+                                    href={"#"}
                                     class="text-base text-gray-300 hover:text-white"
                                 >
                                     API
@@ -106,7 +106,7 @@
                         <ul role="list" class="mt-4 space-y-4">
                             <li>
                                 <a
-                                    href="#"
+                                    href={"#"}
                                     class="text-base text-gray-300 hover:text-white"
                                 >
                                     상세
@@ -115,7 +115,7 @@
 
                             <li>
                                 <a
-                                    href="#"
+                                    href={"#"}
                                     class="text-base text-gray-300 hover:text-white"
                                 >
                                     블로그
@@ -124,7 +124,7 @@
 
                             <li>
                                 <a
-                                    href="#"
+                                    href={"#"}
                                     class="text-base text-gray-300 hover:text-white"
                                 >
                                     채용
@@ -133,7 +133,7 @@
 
                             <li>
                                 <a
-                                    href="#"
+                                    href={"#"}
                                     class="text-base text-gray-300 hover:text-white"
                                 >
                                     언론보도
@@ -142,7 +142,7 @@
 
                             <li>
                                 <a
-                                    href="#"
+                                    href={"#"}
                                     class="text-base text-gray-300 hover:text-white"
                                 >
                                     파트너
@@ -159,7 +159,7 @@
                         <ul role="list" class="mt-4 space-y-4">
                             <li>
                                 <a
-                                    href="#"
+                                    href={"#"}
                                     class="text-base text-gray-300 hover:text-white"
                                 >
                                     클레임
@@ -168,7 +168,7 @@
 
                             <li>
                                 <a
-                                    href="#"
+                                    href={"#"}
                                     class="text-base text-gray-300 hover:text-white"
                                 >
                                     프라이버시
@@ -177,7 +177,7 @@
 
                             <li>
                                 <a
-                                    href="#"
+                                    href={"#"}
                                     class="text-base text-gray-300 hover:text-white"
                                 >
                                     정책
@@ -226,7 +226,7 @@
             class="mt-8 border-t border-gray-700 pt-8 md:flex md:items-center md:justify-between"
         >
             <div class="flex space-x-6 md:order-2">
-                <a href="#" class="text-gray-400 hover:text-gray-300">
+                <a href={"#"} class="text-gray-400 hover:text-gray-300">
                     <span class="sr-only">Facebook</span>
                     <svg
                         class="h-6 w-6"
@@ -242,7 +242,7 @@
                     </svg>
                 </a>
 
-                <a href="#" class="text-gray-400 hover:text-gray-300">
+                <a href={"#"} class="text-gray-400 hover:text-gray-300">
                     <span class="sr-only">Instagram</span>
                     <svg
                         class="h-6 w-6"
@@ -258,7 +258,7 @@
                     </svg>
                 </a>
 
-                <a href="#" class="text-gray-400 hover:text-gray-300">
+                <a href={"#"} class="text-gray-400 hover:text-gray-300">
                     <span class="sr-only">Twitter</span>
                     <svg
                         class="h-6 w-6"
@@ -272,7 +272,7 @@
                     </svg>
                 </a>
 
-                <a href="#" class="text-gray-400 hover:text-gray-300">
+                <a href={"#"} class="text-gray-400 hover:text-gray-300">
                     <span class="sr-only">GitHub</span>
                     <svg
                         class="h-6 w-6"
@@ -288,7 +288,7 @@
                     </svg>
                 </a>
 
-                <a href="#" class="text-gray-400 hover:text-gray-300">
+                <a href={"#"} class="text-gray-400 hover:text-gray-300">
                     <span class="sr-only">Dribbble</span>
                     <svg
                         class="h-6 w-6"
