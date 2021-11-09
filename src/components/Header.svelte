@@ -15,12 +15,12 @@
 >
     <div class="flex">
         <img
-            class="w-20 mx-5"
+            class="w-20 mr-5"
             in:fly={{ delay: 1000, x: 100 }}
             src={logo}
             alt="bella!"
         />
         <span>Bella's Todolist</span>
     </div>
-    <span class="text-md">remains : {completedItemCount} / {itemCount}</span>
+    <span class="text-sm">remains : {completedItemCount} / {itemCount}</span>
 </div>
