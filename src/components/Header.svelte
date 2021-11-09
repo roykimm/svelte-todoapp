@@ -22,5 +22,5 @@
         />
         <span>Bella's Todolist</span>
     </div>
-    <span class="text-sm">remains : {completedItemCount} / {itemCount}</span>
+    <span class="text-md">{completedItemCount} / {itemCount}</span>
 </div>
